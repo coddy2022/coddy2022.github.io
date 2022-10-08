@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Rubik+Dirt&display=swap');
+
+@font-face{
+	font-family: "Terpsichora";
+	src: url('../font/1.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+body{
+	margin: 0px;
+	font-size: 32px;
+	font-family: 'Lobster', cursive;
+	background-color: #c99789;
+}
+p{
+	color: #e0a899;
+}
+h1{
+	font-size: 48px;
+	font-family: 'Rubik Dirt', cursive;
+	color: #c99789;
+}
+span{
+	color: #fce9db;
+	background-color: #c99789;
+	font-family: "Terpsichora";
+}
+div{
+	width: 80%;
+	margin: auto;
+	background-color: #fce9db;
+	padding: 50px;
+}
+img{ 
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+a{
+	text-decoration: none;
+	color: #a02f1f;
+	font-size: 20px;
+	display: block;
+	margin: 20px 0;
+}
+a:hover{
+	text-decoration: underline;
+	color: #fce9db;
+	background-color: #c99789;
+
+}
+
+ol{
+	list-style-type:square;
+	color: #c99789;
+}
